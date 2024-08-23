@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JpMorgans_chaysCo_MortugageLoan.BusinessEntities\JpMorgans_chaysCo_MortugageLoan.BusinessEntities.csproj" />
+    <ProjectReference Include="..\JpMorgans_chaysCo_MortugageLoan.DataBaseLogic\JpMorgans_chaysCo_MortugageLoan.DataBaseLogic.csproj" />
+  </ItemGroup>
+
+</Project>

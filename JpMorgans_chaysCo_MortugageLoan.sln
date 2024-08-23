@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chaysCo_MortugageLoan", "JpMorgans_chaysCo_MortugageLoan\JpMorgans_chaysCo_MortugageLoan.csproj", "{CA06D588-AE1E-4F80-B12C-F72021B32A2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chaysCo_MortugageLoan.BusinessEntities", "JpMorgans_chaysCo_MortugageLoan.BusinessEntities\JpMorgans_chaysCo_MortugageLoan.BusinessEntities.csproj", "{D33299FF-CD85-4356-8759-A95CFB3E2E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chaysCo_MortugageLoan.DataBaseLogic", "JpMorgans_chaysCo_MortugageLoan.DataBaseLogic\JpMorgans_chaysCo_MortugageLoan.DataBaseLogic.csproj", "{B2A0FD8F-274E-4C63-924D-57D423029F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chaysCo_MortugageLoan.RepositoryLayer", "JpMorgans_chaysCo_MortugageLoan.RepositoryLayer\JpMorgans_chaysCo_MortugageLoan.RepositoryLayer.csproj", "{F8D76E09-8DB7-4A2A-A3CE-39EEB253085C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpMorgans_chaysCo_MortugageLoan.ServiceLayer", "JpMorgans_chaysCo_MortugageLoan.ServiceLayer\JpMorgans_chaysCo_MortugageLoan.ServiceLayer.csproj", "{59989DF6-F8B8-44D5-B1B2-BC4F5FC232F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA06D588-AE1E-4F80-B12C-F72021B32A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA06D588-AE1E-4F80-B12C-F72021B32A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA06D588-AE1E-4F80-B12C-F72021B32A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA06D588-AE1E-4F80-B12C-F72021B32A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33299FF-CD85-4356-8759-A95CFB3E2E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33299FF-CD85-4356-8759-A95CFB3E2E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33299FF-CD85-4356-8759-A95CFB3E2E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33299FF-CD85-4356-8759-A95CFB3E2E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A0FD8F-274E-4C63-924D-57D423029F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A0FD8F-274E-4C63-924D-57D423029F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A0FD8F-274E-4C63-924D-57D423029F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A0FD8F-274E-4C63-924D-57D423029F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D76E09-8DB7-4A2A-A3CE-39EEB253085C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D76E09-8DB7-4A2A-A3CE-39EEB253085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D76E09-8DB7-4A2A-A3CE-39EEB253085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D76E09-8DB7-4A2A-A3CE-39EEB253085C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59989DF6-F8B8-44D5-B1B2-BC4F5FC232F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59989DF6-F8B8-44D5-B1B2-BC4F5FC232F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59989DF6-F8B8-44D5-B1B2-BC4F5FC232F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59989DF6-F8B8-44D5-B1B2-BC4F5FC232F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C6D30A-956F-42A0-A6A6-7B4817FA3E3C}
+	EndGlobalSection
+EndGlobal

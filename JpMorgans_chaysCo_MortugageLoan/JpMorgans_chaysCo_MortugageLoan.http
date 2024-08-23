@@ -1,0 +1,6 @@
+@JpMorgans_chaysCo_MortugageLoan_HostAddress = http://localhost:5254
+
+GET {{JpMorgans_chaysCo_MortugageLoan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
